@@ -21,3 +21,38 @@
 
 en:
   hello: "Hello world"
+  base_title: "Ruby on Rails Tutorial Sample Apps"
+
+  static_pages:
+    about:
+      the: "The "
+      isa: " is a "
+      and: " and "
+      about: "About"
+      tutorial: "Ruby on Rails Tutorial"
+      book: "book"
+      scrcast: "screencast series"
+      toteach: "to teach web development with"
+      rails: "Ruby on Rails"
+      sample: "This is the sample application for the tutorial."
+
+    contact:
+      contact: "Contact"
+      contactsample: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      contactpage: "contact page"
+      helloi18n: "Hello i18n!"
+
+    help:
+      helptitle: "Help"
+      gethelp: "Get help on the Ruby on Rails Tutorial at the "
+      helppage: "Rails Tutorial help page"
+      seehelp: "To get help on this sample app, see the"
+      tutorial: "Ruby on Rails Tutorial"
+      book: "book"
+
+    home:
+      homeapp: "Sample App"
+      homepage: "This is the home page for the "
+      tutorial: "Ruby on Rails Tutorial"
+      sample: "sample application"
+
