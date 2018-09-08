@@ -24,3 +24,5 @@ master.key
 credentials.yml.enc
 database.yml
 secrets.yml
+
+/test
