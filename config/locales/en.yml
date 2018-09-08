@@ -51,8 +51,31 @@ en:
       book: "book"
 
     home:
-      homeapp: "Sample App"
+      homeapp: "Welcome to the Sample App"
       homepage: "This is the home page for the "
       tutorial: "Ruby on Rails Tutorial"
       sample: "sample application"
+      sigup: "Sign up now!"
+      logo: "Rails logo"
+
+  users:
+    new:
+      signup: "Sign up"
+      signuppage: "This will be a signup page for new users"
+
+  layouts:
+    footer:
+      the: "The "
+      tutorial: "Ruby on Rails Tutorial"
+      by: " by "
+      Michael: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+
+    header:
+      sampleapp: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
 
