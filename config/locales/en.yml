@@ -27,9 +27,10 @@ en:
 
   sessions:
     new:
-      login: "Log in"
       signup: "Sign up now!"
-      newuser: "New user? "
+      new: "New user?"
+      login: "Log in"
+      remember: "Remember me on this computer"
 
   shared:
     error_messages:
@@ -73,8 +74,9 @@ en:
   users:
     new:
       signup: "Sign up"
-      signuppage: "This will be a signup page for new users"
       create: "Create my account"
+      signuppage: "This will be a signup page for new users"
+      confirm: "Confirmation"
 
   layouts:
     footer:
