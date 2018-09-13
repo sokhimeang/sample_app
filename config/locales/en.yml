@@ -23,6 +23,17 @@ en:
   hello: "Hello world"
   base_title: "Ruby on Rails Tutorial Sample Apps"
   nouser: "User not exist! Want to sign up?"
+  invalid: "Invalid email/password combination"
+
+  sessions:
+    new:
+      login: "Log in"
+      signup: "Sign up now!"
+      newuser: "New user? "
+
+  shared:
+    error_messages:
+      form: "The form contains "
 
   static_pages:
     about:
@@ -62,6 +73,7 @@ en:
   users:
     new:
       signup: "Sign up"
+      signuppage: "This will be a signup page for new users"
       create: "Create my account"
 
   layouts:
@@ -79,6 +91,12 @@ en:
       home: "Home"
       help: "Help"
       login: "Log in"
+      users: "Users"
+      account: "Account"
+      profile: "Profile"
+      setting: "Setting"
+      logout: "Log out"
+
   shared:
     error_messages:
       form: "The form contains "
