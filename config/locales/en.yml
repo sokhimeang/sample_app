@@ -24,6 +24,9 @@ en:
   base_title: "Ruby on Rails Tutorial Sample Apps"
   nouser: "User not exist! Want to sign up?"
   invalid: "Invalid email/password combination"
+  update: "Profile updated"
+  delete: "User deleted"
+  please_log: "Please log in."
 
   sessions:
     new:
@@ -72,11 +75,25 @@ en:
       logo: "Rails logo"
 
   users:
+    form:
+      confirm: "Confirmation"
+
     new:
       signup: "Sign up"
       create: "Create my account"
       signuppage: "This will be a signup page for new users"
-      confirm: "Confirmation"
+
+    edit:
+      edit: "Edit user"
+      save: "Save changes"
+      update: "Update your profile"
+
+    index:
+      users: "All users"
+
+    user:
+      delete: "delete"
+      sure: "You sure?"
 
   layouts:
     footer:
@@ -89,17 +106,11 @@ en:
       news: "News"
 
     header:
+      account: "Account"
       sampleapp: "sample app"
       home: "Home"
       help: "Help"
       login: "Log in"
-      users: "Users"
-      account: "Account"
       profile: "Profile"
       setting: "Setting"
       logout: "Log out"
-
-  shared:
-    error_messages:
-      form: "The form contains "
-

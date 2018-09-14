@@ -8,3 +8,10 @@ user:
     length: 6
   gravatar:
     size: 80
+  edit:
+    emails: "http://gravatar.com/emails"
+
+root:
+  my: "my"
+  locales: "locales"
+  rb_yml: "*.{rb,yml}"
