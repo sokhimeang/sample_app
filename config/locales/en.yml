@@ -27,6 +27,20 @@ en:
   update: "Profile updated"
   delete: "User deleted"
   please_log: "Please log in."
+  activation: "Account activation"
+  hi: "Hi"
+
+  account_activations:
+    edit:
+      activated: "Account activated!"
+      invalid: "Invalid activation link"
+
+  user_mailer:
+    account_activation:
+      activate: "Activate"
+      app: "Sample App"
+      hi: "Hi "
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
 
   sessions:
     new:
@@ -34,6 +48,8 @@ en:
       new: "New user?"
       login: "Log in"
       remember: "Remember me on this computer"
+    create:
+      message: "Account not activated. Check your email for the activation link."
 
   shared:
     error_messages:
@@ -75,6 +91,9 @@ en:
       logo: "Rails logo"
 
   users:
+    create:
+      confirm_mail: "Please check your email to activate your account."
+
     form:
       confirm: "Confirmation"
 
