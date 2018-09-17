@@ -10,8 +10,10 @@ user:
     size: 80
   edit:
     emails: "http://gravatar.com/emails"
-
+  account:
+    per_page: 10
 root:
   my: "my"
   locales: "locales"
-  rb_yml: "*.{rb,yml}"
+  rb_yml: "*.{rb,yml}" 
+  
