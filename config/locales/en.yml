@@ -31,6 +31,15 @@ en:
   hi: "Hi"
   password_reset: "Password reset"
 
+  microposts:
+    create:
+      created: "Micropost created!"
+    micropost:
+      posted: "Posted "
+      ago: " ago."
+    destroy:
+      deleted: "Micropost deleted"
+
   password_resets:
     new:
       forgot: "Forgot password"
@@ -76,6 +85,13 @@ en:
   shared:
     error_messages:
       form: "The form contains "
+    user_info:
+      view: "view my profile"
+      micropost: "micropost"
+    micropost_form:
+      post: "Post"
+      compose: "Compose new micropost..."
+      max_size: "Maximum file size is 5MB. Please choose a smaller file."
 
   static_pages:
     about:
@@ -105,14 +121,19 @@ en:
       book: "book"
 
     home:
+      home: "Home"
       homeapp: "Welcome to the Sample App"
       homepage: "This is the home page for the "
       tutorial: "Ruby on Rails Tutorial"
       sample: "sample application"
       sigup: "Sign up now!"
       logo: "Rails logo"
+      feed: "Micropost Feed"
 
   users:
+    show:
+      microposts: "Microposts"
+
     create:
       confirm_mail: "Please check your email to activate your account."
 

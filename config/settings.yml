@@ -1,3 +1,5 @@
+tutorial:
+  home: "http://www.railstutorial.org/"
 user:
   name:
     length: 50
