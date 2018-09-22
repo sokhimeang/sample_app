@@ -23,7 +23,7 @@ en:
   hello: "Hello world"
   base_title: "Ruby on Rails Tutorial Sample Apps"
   nouser: "User not exist! Want to sign up?"
-  invalid: "Invalid email/password combination"
+
   update: "Profile updated"
   delete: "User deleted"
   please_log: "Please log in."
@@ -62,7 +62,7 @@ en:
       invalid: "Invalid activation link"
 
   user_mailer:
-    password_reset: 
+    password_reset:
       click: "To reset your password click the link below:"
       expire: "This link will expire in two hours."
       not_you: "If you did not request your password to be reset, please ignore this email and your password will stay as it is."
@@ -81,6 +81,7 @@ en:
       remember: "Remember me on this computer"
     create:
       message: "Account not activated. Check your email for the activation link."
+      invalid: "Invalid email/password combination"
 
   shared:
     error_messages:

@@ -28,12 +28,12 @@ class SessionsController < ApplicationController
   end
 
   def activate_warning
-    flash[:warning] = t(".message")
+    flash[:warning] = t ".message"
     redirect_to root_url
   end
 
   def invalid_warning
-    flash.now[:danger] = t "invalid"
+    flash.now[:danger] = t ".invalid"
     render :new
   end
 
